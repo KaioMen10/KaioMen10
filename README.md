@@ -24,4 +24,4 @@ Meu nome é Kaio Mendes, e sou um desenvolvedor em constante evolução. Atualme
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/kaiomen10/" target="_blank">Kaio Mendes da Silva</a> Email:</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/kaiomen10/" target="_blank">Kaio Mendes da Silva</a></p>
